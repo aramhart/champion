@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('maxxApp')
+angular.module('championApp')
   .directive('footer', function() {
     return {
       templateUrl: 'components/footer/footer.html',

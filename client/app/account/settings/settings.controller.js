@@ -25,5 +25,5 @@ class SettingsController {
   }
 }
 
-angular.module('maxxApp')
+angular.module('championApp')
   .controller('SettingsController', SettingsController);

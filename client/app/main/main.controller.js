@@ -30,7 +30,7 @@ class MainController {
   }
 }
 
-angular.module('maxxApp')
+angular.module('championApp')
   .controller('MainController', MainController);
 
 })();

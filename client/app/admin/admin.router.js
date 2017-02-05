@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('maxxApp.admin')
+angular.module('championApp.admin')
   .config(function($stateProvider) {
     $stateProvider
       .state('admin', {

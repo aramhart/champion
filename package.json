@@ -1,5 +1,5 @@
 {
-  "name": "maxx",
+  "name": "champion",
   "version": "0.0.0",
   "main": "server/app.js",
   "dependencies": {

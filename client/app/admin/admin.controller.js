@@ -14,7 +14,7 @@ class AdminController {
   }
 }
 
-angular.module('maxxApp.admin')
+angular.module('championApp.admin')
   .controller('AdminController', AdminController);
 
 })();

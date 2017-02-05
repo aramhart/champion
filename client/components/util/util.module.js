@@ -1,3 +1,3 @@
 'use strict';
 
-angular.module('maxxApp.util', []);
+angular.module('championApp.util', []);

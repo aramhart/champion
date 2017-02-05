@@ -1,9 +1,9 @@
 'use strict';
 
-angular.module('maxxApp', [
-  'maxxApp.auth',
-  'maxxApp.admin',
-  'maxxApp.constants',
+angular.module('championApp', [
+  'championApp.auth',
+  'championApp.admin',
+  'championApp.constants',
   'ngCookies',
   'ngResource',
   'ngSanitize',

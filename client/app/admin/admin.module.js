@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('maxxApp.admin', [
-  'maxxApp.auth',
+angular.module('championApp.admin', [
+  'championApp.auth',
   'ui.router'
 ]);

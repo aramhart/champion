@@ -21,7 +21,7 @@ function UserResource($resource) {
   });
 }
 
-angular.module('maxxApp.auth')
+angular.module('championApp.auth')
   .factory('User', UserResource);
 
 })();

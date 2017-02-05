@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('maxxApp')
+angular.module('championApp')
   .factory('Modal', function($rootScope, $modal) {
     /**
      * Opens a modal

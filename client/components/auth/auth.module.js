@@ -1,8 +1,8 @@
 'use strict';
 
-angular.module('maxxApp.auth', [
-  'maxxApp.constants',
-  'maxxApp.util',
+angular.module('championApp.auth', [
+  'championApp.constants',
+  'championApp.util',
   'ngCookies',
   'ui.router'
 ])

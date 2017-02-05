@@ -3,7 +3,7 @@
 describe('Controller: MainController', function() {
 
   // load the controller's module
-  beforeEach(module('maxxApp'));
+  beforeEach(module('championApp'));
   beforeEach(module('stateMock'));
   beforeEach(module('socketMock'));
 

@@ -59,7 +59,7 @@ function UtilService($window) {
   return Util;
 }
 
-angular.module('maxxApp.util')
+angular.module('championApp.util')
   .factory('Util', UtilService);
 
 })();

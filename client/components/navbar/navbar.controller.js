@@ -17,5 +17,5 @@ class NavbarController {
   }
 }
 
-angular.module('maxxApp')
+angular.module('championApp')
   .controller('NavbarController', NavbarController);

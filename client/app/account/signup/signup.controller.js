@@ -39,5 +39,5 @@ class SignupController {
   }
 }
 
-angular.module('maxxApp')
+angular.module('championApp')
   .controller('SignupController', SignupController);

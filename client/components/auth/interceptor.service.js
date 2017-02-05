@@ -26,7 +26,7 @@ function authInterceptor($rootScope, $q, $cookies, $injector, Util) {
   };
 }
 
-angular.module('maxxApp.auth')
+angular.module('championApp.auth')
   .factory('authInterceptor', authInterceptor);
 
 })();
